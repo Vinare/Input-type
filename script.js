@@ -20,7 +20,7 @@ const dimensions = function(e) {
 btn.addEventListener('click', color);
 eBtn.style.display = 'none';
 range.addEventListener('input', dimensions);
-console.dir(circle);
+
 
 
 
